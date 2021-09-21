@@ -1,161 +1,158 @@
 {
-    "books": [
-        [ 
-            {
-                "id": 1,
-                "author": "Daniel McCoy",
-                "title": "The Viking Spirit: An Introduction to Norse Mythology and Religion",
-                "description": "The Viking Spirit is an introduction to Norse mythology like no other.",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465185682l/30359031._SY475_.jpg",
-                "published": 2016,
-                "selected_by": "Christoph",
-                "month_read": "May",
-                "year_read": 2020
-            },
-            {
-                "id": 2,
-                "author": "Michael Shermer",
-                "title": "Giving the Devil His Due: Reflections of a Scientific Humanist",
-                "description": "Who is the 'Devil'? And what is he due? The Devil is anyone who disagrees with you. And what he is due is the right to speak his mind. He must have this for your own safety's sake because his freedom is inextricably tied to your own. ",
-                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsanet.pics%2Fstorage-6%2F0420%2FPxGmjj73fwkxEvrTam0LZj7T2LIm89SY.jpg&f=1&nofb=1",
-                "published": 2020,
-                "selected_by": "Robert",
-                "month_read": "June",
-                "year_read": 2020
-            },
-            {
-                "id": 3,
-                "author": "Rutger Bregman",
-                "title": "Humankind: A Hopeful History",
-                "description": "From the author of Utopia For Realists, a revolutionary argument that the innate goodness and cooperation of human beings has been the greatest factor in our success",
-                "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.bloomsbury.com%2Frep%2Fbj%2F9781526633996.jpg&f=1&nofb=1",
-                "published": 2020,
-                "selected_by": "Carla",
-                "month_read": "July",
-                "year_read": 2020
-            },
-            {
-                "id": 4, 
-                "author": "Amor Towles",
-                "title": "A Gentleman in Moscow: A Novel",
-                "description": "From the New York Times bestselling author of Rules of Civility—a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel",
-                "image": "https://cdn2.penguin.com.au/covers/original/9781786332905.jpg",
-                "published": 2020,
-                "selected_by": "Ernie",
-                "month_read": "September",
-                "year_read": 2020
-            },
-            {
-                "id": 5, 
-                "author": "Que Mai Phan Nguyen",
-                "title": "The Mountains Sing",
-                "description": "With the epic sweep of Min Jin Lee's Pachinko or Yaa Gyasi's Homegoing and the lyrical beauty of Vaddey Ratner's In the Shadow of the Banyan, The Mountains Sing tells an enveloping, multigenerational tale of the Trần family, set against the backdrop of the Việt Nam War.",
-                "image": "https://images-us.bookshop.org/ingram/9781643751351.jpg?height=500&v=v2",
-                "published": 2020,
-                "selected_by": "Valerie",
-                "month_read": "October",
-                "year_read": 2020
-            },
-            {
-                "id": 6, 
-                "author": "Max Frisch",
-                "title": "Homo Faber",
-                "description": "Walter Faber is an emotionally detached engineer forced by a string of coincidences to embark on a journey through his past.",
-                "image": "https://images-us.bookshop.org/ingram/9781643751351.jpg?height=500&v=v2",
-                "published": 1994,
-                "selected_by": "Christoph",
-                "month_read": "November",
-                "year_read": 2020
-            },
-            {
-                "id": 7, 
-                "author": "Xiaowei Wang",
-                "title": "Blockchain Chicken Farm: And Other Stories of Tech in China’s Countryside",
-                "description": "From FSGO x Logic: stories about rural China, food, and tech that reveal new truths about the globalized world",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632441l/50403472.jpg",
-                "published": 2020,
-                "selected_by": "Irene",
-                "month_read": "December",
-                "year_read": 2020
-            },
-            {
-                "id": 8, 
-                "author": "William T. Vollmann",
-                "title": "No Immediate Danger: Volume One of Carbon Ideologies (Carbon Ideologies #1)",
-                "description": "A timely, eye-opening book about climate change and energy generation that focuses on the consequences of nuclear power production, from award-winning author William T. Vollmann",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632441l/50403472.jpg",
-                "published": 2020,
-                "selected_by": "Robert",
-                "month_read": "February",
-                "year_read": 2021
-            },
-            {
-                "id": 9, 
-                "author": "Kazuo Ishiguro",
-                "title": "Klara and the Sun",
-                "description": "In Klara and the Sun, Kazuo Ishiguro looks at our rapidly changing modern world through the eyes of an unforgettable narrator to explore a fundamental question: what does it mean to love?",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SY475_.jpg",
-                "published": 2021,
-                "selected_by": "Carla",
-                "month_read": "March",
-                "year_read": 2021
-            },
-            {
-                "id": 10, 
-                "author": "Karen Shragg",
-                "title": "Move Upstream by Karen Shragg",
-                "description": "The bravest book on human overpopulation yet. It will open your eyes, even if you have taped them shut. Shocking and provocative, Move Upstream has the courage to name names and proscribe the simple truth on how to combat the overpopulation crisis",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444881133l/27070996.jpg",
-                "published": 2025,
-                "selected_by": "Ernie",
-                "month_read": "April",
-                "year_read": 2021
-            },
-            {
-                "id": 11, 
-                "author": "Paul Ehrlich",
-                "title": "One With Nineveh: Politics, Consumption, and the Human Future",
-                "description": "One with Nineveh brilliantly puts today's political and environmental debates in a larger context and offers some bold proposals for improving our future prospect",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347316546l/282038.jpg",
-                "published": 2025,
-                "selected_by": "Ernie",
-                "month_read": "April",
-                "year_read": 2021
-            },
-            {
-                "id": 12, 
-                "author": "Anaïs Nin",
-                "title": "Little Birds",
-                "description": "Evocative and superbly erotic, Little Birds is a powerful journey into the mysterious world of sex and sensuality.",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424419804l/11036.jpg",
-                "published": 1979,
-                "selected_by": "Irene",
-                "month_read": "June",
-                "year_read": 2021
-            },
-            {
-                "id": 13, 
-                "author": "Masanobu Fukuoka",
-                "title": "​The One-Straw Revolution",
-                "description": "Fukuoka demonstrates how the way we look at farming influences the way we look at health, the school, nature, nutrition, spiritual health and life itself. He joins the healing of the land to the process of purifying the human spirit and proposes a way of life and a way of farming in which such healing can take place.",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424419804l/11036.jpg",
-                "published": 1975,
-                "selected_by": "Robert",
-                "month_read": "August",
-                "year_read": 2021
-            },
-            {
-                "id": 14, 
-                "author": "Sarah Lyons",
-                "title": "​Revolutionary Witchcraft: A Guide to Magical Activism",
-                "description": "A fiery, inclusive guide for activists and witches alike, Revolutionary Witchcraft is an empowered introduction to the history and practice of politically-motivated magic.",
-                "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558988569l/976905._SY475_.jpg",
-                "published": 2019,
-                "selected_by": "Carla",
-                "month_read": "September",
-                "year_read": 2021
-            }
-        ]
-        
-    ]
+  "books": [
+    {
+      "id": 1,
+      "author": "Daniel McCoy",
+      "title": "The Viking Spirit: An Introduction to Norse Mythology and Religion",
+      "description": "The Viking Spirit is an introduction to Norse mythology like no other.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465185682l/30359031._SY475_.jpg",
+      "published": 2016,
+      "selected_by": "Christoph",
+      "month_read": "May",
+      "year_read": 2020
+    },
+    {
+      "id": 2,
+      "author": "Michael Shermer",
+      "title": "Giving the Devil His Due: Reflections of a Scientific Humanist",
+      "description": "Who is the 'Devil'? And what is he due? The Devil is anyone who disagrees with you. And what he is due is the right to speak his mind. He must have this for your own safety's sake because his freedom is inextricably tied to your own. ",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsanet.pics%2Fstorage-6%2F0420%2FPxGmjj73fwkxEvrTam0LZj7T2LIm89SY.jpg&f=1&nofb=1",
+      "published": 2020,
+      "selected_by": "Robert",
+      "month_read": "June",
+      "year_read": 2020
+    },
+    {
+      "id": 3,
+      "author": "Rutger Bregman",
+      "title": "Humankind: A Hopeful History",
+      "description": "From the author of Utopia For Realists, a revolutionary argument that the innate goodness and cooperation of human beings has been the greatest factor in our success",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.bloomsbury.com%2Frep%2Fbj%2F9781526633996.jpg&f=1&nofb=1",
+      "published": 2020,
+      "selected_by": "Carla",
+      "month_read": "July",
+      "year_read": 2020
+    },
+    {
+      "id": 4,
+      "author": "Amor Towles",
+      "title": "A Gentleman in Moscow: A Novel",
+      "description": "From the New York Times bestselling author of Rules of Civility—a transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel",
+      "image": "https://cdn2.penguin.com.au/covers/original/9781786332905.jpg",
+      "published": 2020,
+      "selected_by": "Ernie",
+      "month_read": "September",
+      "year_read": 2020
+    },
+    {
+      "id": 5,
+      "author": "Que Mai Phan Nguyen",
+      "title": "The Mountains Sing",
+      "description": "With the epic sweep of Min Jin Lee's Pachinko or Yaa Gyasi's Homegoing and the lyrical beauty of Vaddey Ratner's In the Shadow of the Banyan, The Mountains Sing tells an enveloping, multigenerational tale of the Trần family, set against the backdrop of the Việt Nam War.",
+      "image": "https://images-us.bookshop.org/ingram/9781643751351.jpg?height=500&v=v2",
+      "published": 2020,
+      "selected_by": "Valerie",
+      "month_read": "October",
+      "year_read": 2020
+    },
+    {
+      "id": 6,
+      "author": "Max Frisch",
+      "title": "Homo Faber",
+      "description": "Walter Faber is an emotionally detached engineer forced by a string of coincidences to embark on a journey through his past.",
+      "image": "https://images-us.bookshop.org/ingram/9781643751351.jpg?height=500&v=v2",
+      "published": 1994,
+      "selected_by": "Christoph",
+      "month_read": "November",
+      "year_read": 2020
+    },
+    {
+      "id": 7,
+      "author": "Xiaowei Wang",
+      "title": "Blockchain Chicken Farm: And Other Stories of Tech in China’s Countryside",
+      "description": "From FSGO x Logic: stories about rural China, food, and tech that reveal new truths about the globalized world",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632441l/50403472.jpg",
+      "published": 2020,
+      "selected_by": "Irene",
+      "month_read": "December",
+      "year_read": 2020
+    },
+    {
+      "id": 8,
+      "author": "William T. Vollmann",
+      "title": "No Immediate Danger: Volume One of Carbon Ideologies (Carbon Ideologies #1)",
+      "description": "A timely, eye-opening book about climate change and energy generation that focuses on the consequences of nuclear power production, from award-winning author William T. Vollmann",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632441l/50403472.jpg",
+      "published": 2020,
+      "selected_by": "Robert",
+      "month_read": "February",
+      "year_read": 2021
+    },
+    {
+      "id": 9,
+      "author": "Kazuo Ishiguro",
+      "title": "Klara and the Sun",
+      "description": "In Klara and the Sun, Kazuo Ishiguro looks at our rapidly changing modern world through the eyes of an unforgettable narrator to explore a fundamental question: what does it mean to love?",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SY475_.jpg",
+      "published": 2021,
+      "selected_by": "Carla",
+      "month_read": "March",
+      "year_read": 2021
+    },
+    {
+      "id": 10,
+      "author": "Karen Shragg",
+      "title": "Move Upstream by Karen Shragg",
+      "description": "The bravest book on human overpopulation yet. It will open your eyes, even if you have taped them shut. Shocking and provocative, Move Upstream has the courage to name names and proscribe the simple truth on how to combat the overpopulation crisis",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444881133l/27070996.jpg",
+      "published": 2025,
+      "selected_by": "Ernie",
+      "month_read": "April",
+      "year_read": 2021
+    },
+    {
+      "id": 11,
+      "author": "Paul Ehrlich",
+      "title": "One With Nineveh: Politics, Consumption, and the Human Future",
+      "description": "One with Nineveh brilliantly puts today's political and environmental debates in a larger context and offers some bold proposals for improving our future prospect",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347316546l/282038.jpg",
+      "published": 2025,
+      "selected_by": "Ernie",
+      "month_read": "April",
+      "year_read": 2021
+    },
+    {
+      "id": 12,
+      "author": "Anaïs Nin",
+      "title": "Little Birds",
+      "description": "Evocative and superbly erotic, Little Birds is a powerful journey into the mysterious world of sex and sensuality.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424419804l/11036.jpg",
+      "published": 1979,
+      "selected_by": "Irene",
+      "month_read": "June",
+      "year_read": 2021
+    },
+    {
+      "id": 13,
+      "author": "Masanobu Fukuoka",
+      "title": "​The One-Straw Revolution",
+      "description": "Fukuoka demonstrates how the way we look at farming influences the way we look at health, the school, nature, nutrition, spiritual health and life itself. He joins the healing of the land to the process of purifying the human spirit and proposes a way of life and a way of farming in which such healing can take place.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424419804l/11036.jpg",
+      "published": 1975,
+      "selected_by": "Robert",
+      "month_read": "August",
+      "year_read": 2021
+    },
+    {
+      "id": 14,
+      "author": "Sarah Lyons",
+      "title": "​Revolutionary Witchcraft: A Guide to Magical Activism",
+      "description": "A fiery, inclusive guide for activists and witches alike, Revolutionary Witchcraft is an empowered introduction to the history and practice of politically-motivated magic.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558988569l/976905._SY475_.jpg",
+      "published": 2019,
+      "selected_by": "Carla",
+      "month_read": "September",
+      "year_read": 2021
+    }
+  ]
 }
